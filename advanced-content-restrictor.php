@@ -3,7 +3,8 @@
 Plugin Name: Advanced Content Restrictor
 Description: Restrict content with granular controls and modern UI.
 Version: 1.0
-Author: kaisercrazy
+Author: Serkan Algur
+Author URI: https://serkanalgur.com.tr/
 */
 
 // Main plugin class
